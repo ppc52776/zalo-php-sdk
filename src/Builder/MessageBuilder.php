@@ -379,7 +379,7 @@ class MessageBuilder
      * Add message button
      * 
      * @param string $title
-     * @param string $action
+     * @param array $action
      */
     public function withButton($title, $action)
     {
